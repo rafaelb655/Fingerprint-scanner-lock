@@ -8,7 +8,7 @@ The purpose of this projects aims to develop a secure and convenient door access
 4. Reliability: The locking system swill be able to withstand regular usage by the user and the environmental conditions presented upon it.
 5. Regulations/Compliance: The system will meet relevant security and safety standards for door locks and biometric systems, ensuring that the data is protected from breaches.
 # Project Deliverables📦
-1. Design Document:Contains documentation on block diagrams, major components, moving parts, priorities, component selection.
+1. Design Document: Contains documentation on block diagrams, major components, moving parts, priorities, component selection.
 2. Archetecture/Design: Includes detailed drawings, electrical schematics,PCB layout on hoW the biometric locking system will be created and visually represented.
 3. Firmware: Includes microcontroller code that will drive the locking system.
 4. Prototypes: 3D printed models of the locking system to test for functionality and validation.
